@@ -1,0 +1,10 @@
+pandas
+numpy
+joblib
+scikit-learn
+xgboost
+yfinance
+tensorflow
+matplotlib
+flask
+flask_cors

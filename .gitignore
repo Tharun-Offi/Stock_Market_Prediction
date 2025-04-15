@@ -1,0 +1,8 @@
+# .gitignore
+venv/
+*.zip
+*.pyd
+*.pyc
+model/
+*.h5
+*.pkl
