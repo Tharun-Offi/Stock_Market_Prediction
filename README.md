@@ -126,11 +126,6 @@ Model selection is done dynamically based on their prediction accuracy.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👨‍💻 Author
 
